@@ -2,24 +2,19 @@
 ## It's me [Flamefusion](https://github.com/Flamefusion)
 
 **Get in Touch**  
-[Mail Me](meshekharbehera613@gmail.com) [Telegram](https://t.me/Flamefusion)
+ [Telegram](https://t.me/Flamefusion)
 
 __Currently Learning C on [UDMEY](https://www.udemy.com/)__    
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Flamefusion&show_icons=true&theme=radical&count_private=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=Flamefusion&show_icons=true&theme=radical&count_private=true)  
+- 👯 I’m looking to collaborate on Android Development
+- ⚡ Fun fact: well i am totally funny and ready to discuss anime at any time 
 
-<!--
-**Flamefusion/Flamefusion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://twitter.com/ShekharBehera8">
+    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+    </a>
+<a href="mailto:meshekharbehera613@gmail.com">
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
