@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hello There
+## It's me [Flamefusion](https://github.com/Flamefusion)
+
+**Get in Touch**  
+[Mail Me](meshekharbehera613@gmail.com) [Telegram](https://t.me/Flamefusion)
+
+__Currently Learning C on [UDMEY](https://www.udemy.com/)__    
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=Flamefusion&show_icons=true&theme=radical&count_private=true)
 
 <!--
 **Flamefusion/Flamefusion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
