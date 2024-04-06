@@ -4,7 +4,7 @@
 **Get in Touch**  
  [Telegram](https://t.me/Flamefusion)
 
-__Currently Learning C on [UDMEY](https://www.udemy.com/)__    
+__Currently Learning Python__    
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Flamefusion&show_icons=true&theme=radical&count_private=true)  
